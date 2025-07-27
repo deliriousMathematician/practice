@@ -13,4 +13,4 @@ I would like to code up pre-existing algorithms and potentially design my own.
 - [ ] ...
 
 <center><img src="fig1.jpg" alt="Fig.1" style="height: 250px; width:300px;"></center>
-<h6 align="center"> <b>Fig.1: A visualised sorting algorithm example.</b> </h6>
+<h6 align="left"> <b>Fig.1: A visualised sorting algorithm example.</b> </h6>
